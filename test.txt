@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 modified 22
-=======
+
+master branch 
+
 modify txt
->>>>>>> main
