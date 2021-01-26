@@ -1,3 +1,4 @@
-make sub txt  같은 줄에 텍스트 추가  
+make sub txt  같은 줄에 텍스트 추가 <- sub1 
+              in Enlish add text at same line  <- sub2 
 
 text add in sub1
